@@ -1,6 +1,6 @@
 {
   "name": "figma-icon-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "figmaicontest",
   "main": "dist/juuust-react-icon.cjs.js",
   "module": "dist/juuust-react-icon.esm.js",
